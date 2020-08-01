@@ -5,6 +5,6 @@ Hello Java
 </title>
 </head>
 <body>
-<center> <h1> Hello CICD 01</h1> </center>
+<center> <h1> Hello CICD 02</h1> </center>
 </body>
 </html>
